@@ -1,0 +1,131 @@
+Place,Name,Country,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,In,Out,Total,Par66,Today
+1,Damien Dyrdol,France,3,5,3,2,3,3,4,2,5,4,5,2,4,3,3,3,4,4,-3,-1,-4,1,0
+2,Patrick Huber,Switzerland,2,4,4,3,2,3,3,2,4,3,8,3,4,4,4,3,4,3,-6,3,-3,,0
+3,Richer Alexandre,France,3,4,3,4,3,3,3,3,5,5,5,3,4,3,4,2,4,2,-2,-1,-3,,0
+4,Beck Elliot,Switzerland,3,4,3,4,3,3,4,2,5,4,4,3,5,3,3,2,4,4,-2,-1,-3,,0
+5,Huber Vincent,Switzerland,4,4,4,3,3,3,4,2,6,4,4,2,4,4,3,3,4,3,0,-2,-2,1,0
+6,Neil Shave,United Kingdom,4,5,3,4,2,2,3,4,4,3,6,2,5,4,3,3,4,3,-2,0,-2,,0
+7,Michael Wilkes,Netherlands,4,5,3,3,3,2,4,2,5,4,5,4,4,4,3,3,4,3,-2,1,-1,1,0
+8,Matias Perrone,Argentina,3,4,3,4,3,3,3,2,4,4,4,3,6,4,4,3,5,3,-4,3,-1,1,0
+9,Mazzer Fabio,Italy,4,5,4,3,3,3,3,3,5,3,5,3,4,4,3,3,4,3,0,-1,-1,,0
+10,Frejus Christophe,France,4,4,4,3,2,3,4,1,6,4,5,3,4,5,3,3,4,3,-2,1,-1,,0
+11,Ben Clarke,United Kingdom,4,4,3,3,3,3,3,4,4,4,4,3,5,4,4,3,4,3,-2,1,-1,,0
+12,Crevon Frederic,France,3,5,3,3,3,3,3,3,4,4,6,3,4,4,4,3,4,3,-3,2,-1,,0
+13,Lionel Jacot,Switzerland,3,5,4,3,3,3,4,2,5,4,6,3,4,3,3,3,4,3,-1,0,-1,,0
+14,Samuel Bosson,Switzerland,4,4,3,2,3,2,3,4,6,4,7,3,4,4,3,3,4,3,-2,2,0,1,0
+15,Octavio Rodrigues,Switzerland,3,3,2,5,3,3,4,3,6,4,6,2,6,4,3,3,3,3,-1,1,0,,0
+16,Davide Venturelli,Italy,4,4,4,3,2,3,3,2,5,3,6,4,5,4,3,3,4,4,-3,3,0,,0
+17,Harmach Badre,France,4,3,3,4,2,3,3,4,4,4,7,2,5,4,4,3,4,3,-3,3,0,,0
+18,Matthew Morgan,United Kingdom,3,4,4,5,2,3,3,3,5,4,6,2,5,3,5,3,4,2,-1,1,0,,0
+19,Romain Barbe,France,3,4,3,4,3,3,2,2,5,4,6,3,4,4,3,3,6,4,-4,4,0,,0
+20,Stijn Grondelaers,Belgium,2,5,3,4,4,3,4,3,6,4,4,2,4,4,3,2,5,4,1,-1,0,,0
+21,Cedric Bonnot,France,3,6,3,4,2,3,3,2,5,4,7,3,4,3,3,3,4,4,-2,2,0,,0
+22,Flávio Azenha,Portugal,4,5,4,3,5,3,3,4,5,4,4,2,3,4,4,2,4,3,3,-3,0,,0
+23,David Mancino,Switzerland,3,4,4,3,3,3,3,3,5,4,6,3,4,4,3,4,5,3,-2,3,1,1,0
+24,Marco Pavan,Italy,4,5,4,3,2,2,3,4,4,4,5,3,4,4,3,4,6,3,-2,3,1,,0
+25,Nicolas Garcia,Argentina,4,3,3,3,3,3,4,4,5,4,5,3,3,5,3,3,5,4,-1,2,1,,0
+26,Tomas Kikus,Slovakia,3,4,4,4,3,3,3,3,5,4,4,2,6,4,5,3,4,3,-1,2,1,,0
+27,Éric Dyrdol,France,3,3,4,3,4,3,4,4,5,4,4,2,5,4,4,3,4,4,0,1,1,,0
+28,Julian Kelkel,Germany,3,5,4,3,3,3,3,3,6,4,7,3,4,3,3,3,4,4,0,2,2,1,0
+29,Francesco Lombardo,Italy,4,6,4,4,2,3,2,3,5,5,6,2,4,5,3,3,4,3,0,2,2,,0
+30,György Podusil,Hungary,3,7,4,4,3,3,4,3,5,4,4,2,4,4,4,3,4,3,3,-1,2,,0
+31,Samuele Bogi,Italy,3,4,3,4,3,4,4,4,4,4,6,3,4,4,3,3,4,4,0,2,2,,0
+32,Christopher Pou,France,3,4,4,4,2,3,3,4,5,4,6,3,4,4,4,3,4,4,-1,3,2,,0
+33,Sven Mayer,Germany,3,5,5,4,3,3,3,3,4,4,5,3,4,5,3,3,5,3,0,2,2,,0
+34,Klaas Wijers,Netherlands,4,5,3,3,3,4,3,4,5,5,7,2,3,4,3,3,5,3,1,2,3,,0
+35,Laurent Guenaire,France,3,4,4,4,3,3,4,4,5,4,5,4,5,4,3,1,7,3,1,3,4,1,0
+36,Ricardo De Almeida,Switzerland,5,4,4,3,2,3,5,4,5,4,5,2,4,5,4,4,3,4,2,2,4,,0
+37,Marc Sarrazin,Switzerland,5,4,3,4,3,3,5,4,5,4,4,3,4,4,4,3,5,3,3,1,4,,0
+38,Granit Shaqiri,Switzerland,4,4,4,3,3,3,4,3,6,4,4,3,6,4,5,2,4,4,1,3,4,,0
+39,Jean-Baptiste Cadot,France,3,5,3,4,3,3,4,3,4,4,6,3,5,4,4,3,5,4,-1,5,4,,0
+40,Francesco Incrocci,Italy,3,4,4,4,2,4,3,4,5,4,6,3,6,4,3,3,5,3,0,4,4,,0
+41,Evgeniy Levchenko,Netherlands,3,4,4,4,3,3,3,5,6,4,6,3,4,4,3,3,5,4,2,3,5,1,0
+42,Thierry Savioz,Switzerland,3,4,4,3,4,3,4,4,4,4,7,3,4,4,4,3,6,3,0,5,5,1,0
+43,Wesley van den Broek,Netherlands,5,5,3,3,5,3,4,3,5,4,7,2,4,4,4,3,4,3,3,2,5,1,0
+44,Dusan Vangel,Slovakia,2,4,3,5,2,3,3,4,5,5,5,3,6,4,3,3,5,6,-2,7,5,1,0
+45,Antony Gilles,France,3,4,4,3,4,3,3,3,4,5,6,3,4,4,4,4,5,5,-2,7,5,,0
+46,Jochen Popovic,Belgium,6,4,4,4,3,3,3,4,7,4,4,3,5,3,4,2,4,4,5,0,5,,0
+47,Frédéric Simoes,Switzerland,4,5,5,4,3,3,3,3,5,4,5,3,3,3,4,2,3,9,2,3,5,,0
+48,Maxime Schumacher,Switzerland,3,4,3,5,2,4,3,3,5,5,7,3,5,4,4,2,5,4,-1,6,5,,0
+49,Julien D’Espine,Switzerland,4,4,4,3,3,3,3,3,5,3,7,3,6,4,4,3,6,3,-1,6,5,,0
+50,Francesco Di Mario,Switzerland,4,5,4,4,4,3,2,3,7,4,8,2,4,4,3,2,5,3,3,2,5,,0
+51,Laura Rolli,Germany,3,4,5,3,3,4,4,2,5,4,7,4,4,4,4,3,6,3,0,6,6,1,0
+52,Csaba Balazsi,Hungary,4,4,4,4,3,3,4,2,5,4,7,3,6,4,3,3,5,4,0,6,6,1,0
+53,Aydin Erusta,Turkey,4,4,3,4,4,3,4,3,4,4,6,3,4,5,4,4,6,3,0,6,6,1,0
+54,Grégory Rattà,Switzerland,4,5,3,4,4,3,4,5,5,3,5,3,4,4,4,3,6,3,4,2,6,1,0
+55,Elodie Bosson,Switzerland,5,4,3,3,3,4,4,5,5,4,5,4,5,4,3,3,4,4,3,3,6,,0
+56,Leo Dizeo,Argentina,7,5,4,3,3,3,4,2,5,3,6,3,4,4,3,3,5,5,3,3,6,,0
+57,Mohamed Bicer,Turkey,4,4,3,5,5,3,3,3,5,5,7,3,4,3,4,3,5,,2,4,6,,0
+58,Gaëtan Poirier,France,4,4,4,4,2,4,4,4,5,4,5,4,5,5,3,3,4,4,2,4,6,,0
+59,Benoit Vigilant,France,3,4,4,4,4,2,3,4,6,5,5,2,4,4,3,3,8,5,1,6,7,1,0
+60,Romain Lasalle,France,3,4,3,5,4,3,3,6,7,4,4,3,5,5,3,3,5,3,5,2,7,1,0
+61,Robert Tajtyi,Hungary,4,5,3,7,3,4,3,3,5,4,8,2,4,4,3,3,5,3,4,3,7,,0
+62,Christophe Lecoq,France,4,6,4,3,3,3,4,4,4,5,6,4,5,4,4,3,4,3,2,5,7,,0
+63,Sarrazin Thomas,Switzerland,4,5,3,2,4,3,5,3,5,4,8,3,4,5,3,4,5,3,1,6,7,,0
+64,Jean-Claude Logeling,Luxembourg,5,5,3,3,4,3,4,3,6,4,5,3,4,4,5,3,5,4,3,4,7,,0
+65,Beyer Yannick,France,4,5,3,4,3,3,5,3,5,5,6,3,5,3,4,3,5,5,2,6,8,1,0
+66,David Barbey,Switzerland,4,4,4,4,4,3,4,3,4,4,8,4,4,4,3,3,4,6,1,7,8,1,0
+67,Adriano Piccoli,Switzerland,4,6,4,2,3,4,3,2,6,4,9,3,5,4,4,3,4,4,1,7,8,,0
+68,Gilberto Marcante,Italy,4,5,4,4,4,3,5,4,5,4,6,2,4,4,3,3,5,5,5,3,8,,0
+69,Ludovic Da Mota,Switzerland,4,4,4,4,3,3,3,4,6,4,10,,,,4,2,4,4,2,6,8,,0
+70,Juan Ramon Perez Gonzalez,Spain,4,6,3,4,2,4,4,2,6,4,8,3,5,3,4,4,5,3,2,6,8,,0
+71,Akos Tajyti,Hungary,5,5,3,3,3,3,4,4,6,4,5,3,5,5,4,4,4,4,3,5,8,,0
+72,Sébastien Voirol,Switzerland,4,5,2,5,3,3,4,5,6,4,7,2,6,5,3,4,4,3,4,5,9,1,0
+73,Wayne Goodey,United Kingdom,3,4,4,4,4,4,4,3,4,5,6,3,4,4,4,3,6,6,1,8,9,1,0
+74,Ady Hurrell,United Kingdom,5,5,5,4,3,3,6,3,5,5,6,3,4,4,3,3,5,3,6,3,9,,0
+75,Damien Cadoux,Switzerland,3,4,4,4,4,3,5,3,5,4,7,3,5,4,3,3,6,5,2,7,9,,0
+76,Jacquet Mathieu,France,5,4,5,4,4,4,4,4,5,4,6,3,4,4,4,3,5,3,6,3,9,,0
+77,Simon Patrick Harlow,Italy,4,5,5,5,4,3,4,1,5,5,5,3,4,3,5,3,8,4,3,7,10,,0
+78,Helder Guerreiro,Switzerland,5,6,4,4,3,3,3,4,4,5,5,3,6,5,4,4,5,3,3,7,10,,0
+79,Santier Damien,Switzerland,6,6,4,3,2,3,3,3,6,5,7,2,5,5,4,3,6,3,3,7,10,,0
+80,Maurizio Masi,Luxembourg,5,6,4,4,5,3,4,4,5,5,4,3,3,4,3,4,4,7,7,4,11,1,0
+81,Lucile Rochat,Switzerland,4,4,4,3,3,5,4,3,6,5,7,4,4,4,4,4,5,4,3,8,11,1,0
+82,Gianlorenzo Santoro,Italy,6,5,5,3,4,3,4,4,5,5,7,3,4,4,4,4,5,,6,6,12,,0
+83,Daniel Tammaro,Italy,6,5,3,5,4,3,6,4,6,4,5,3,5,4,3,3,5,4,9,3,12,,0
+84,Philippe Baumann,France,4,5,4,3,5,2,4,3,6,5,7,3,4,4,4,3,7,5,3,9,12,,0
+85,Sandro Bertoli,Switzerland,4,4,4,4,5,3,5,3,6,4,7,2,5,4,3,4,5,6,5,7,12,,0
+86,Humberto Fiteiro,Switzerland,4,5,2,5,4,3,4,3,7,4,5,5,5,4,5,4,5,5,4,9,13,1,0
+87,Joanne Carr,United Kingdom,5,6,5,5,3,4,4,4,6,4,6,3,5,4,4,3,5,3,9,4,13,1,0
+88,Jean-François Ducry,Switzerland,4,6,3,3,2,2,5,4,6,5,11,3,6,5,4,2,5,3,2,11,13,1,0
+89,Julien Babel,Switzerland,3,4,4,4,2,4,5,4,6,5,6,4,6,4,5,3,6,4,3,10,13,1,0
+90,Enrico Diodato,Italy,4,4,4,6,5,3,4,5,6,4,7,2,4,4,3,4,6,4,8,5,13,1,0
+91,David Schmitt,France,3,5,5,5,5,3,3,4,6,4,6,5,4,4,4,3,5,5,6,7,13,1,0
+92,Viktor Jurt,Switzerland,5,4,6,4,4,5,3,3,5,6,8,2,4,4,4,3,5,4,6,7,13,,0
+93,Stewart Paisley,United Kingdom,3,5,4,4,4,4,4,5,5,4,7,2,7,4,4,3,5,5,5,8,13,,0
+94,Nicolas Caillé,France,4,5,5,3,3,4,3,6,5,4,7,5,6,4,3,4,5,3,5,8,13,,0
+95,Susanne Berg,Norway,4,5,5,4,3,3,4,4,6,4,7,4,5,5,4,5,4,3,5,8,13,,0
+96,Cédric Fricker,Switzerland,4,8,5,4,3,3,4,4,5,5,7,3,4,4,3,4,5,4,7,6,13,,0
+97,Michael Krattiger,Switzerland,4,4,4,4,2,6,4,3,5,4,7,5,5,6,4,4,5,4,3,11,14,1,0
+98,Michael Fricker,Switzerland,4,5,5,4,3,4,4,4,5,5,8,4,5,5,3,3,5,4,5,9,14,1,0
+99,Arihiro Eugene Otsuka,Japan,4,5,6,3,4,3,4,4,6,5,7,3,5,4,3,3,8,3,6,8,14,,0
+100,Sirine Ben Khelifa,Switzerland,5,4,5,3,4,3,4,4,9,5,7,3,4,4,3,3,5,5,8,6,14,,0
+101,Denny Boutsen,Belgium,4,5,6,5,6,3,3,4,6,4,6,2,8,4,5,2,4,3,9,5,14,,0
+102,Etienne Lacoin,Switzerland,7,6,4,4,4,4,5,3,6,4,6,2,6,4,4,3,5,3,10,4,14,,0
+103,Simona Ondrejkovicova,Slovakia,6,4,5,3,3,5,4,4,5,5,6,3,7,5,4,4,5,3,6,9,15,,0
+104,Denis Kammermann,Switzerland,5,5,4,4,3,5,3,5,6,5,7,3,5,4,5,3,6,3,7,8,15,,0
+105,Laurent Decrenisse,France,4,4,5,4,5,4,4,5,5,5,7,3,5,4,3,4,7,4,7,9,16,1,0
+106,Silva Daniel,Switzerland,5,5,5,4,4,3,5,3,5,6,10,2,5,5,3,3,4,5,6,10,16,,0
+107,Ricardo Silva,Switzerland,4,4,5,4,5,5,4,2,9,5,5,3,4,4,4,3,6,6,9,7,16,,0
+108,Mike Terwingen,Belgium,4,5,5,3,3,3,3,5,9,5,9,4,6,4,4,3,5,3,7,10,17,1,0
+109,Perez Philippe,Switzerland,4,5,2,5,4,3,4,6,7,5,6,4,5,5,3,4,4,7,7,10,17,,0
+110,Virginie Gastel,Switzerland,4,4,5,4,3,3,4,5,8,4,10,4,5,5,3,3,4,6,7,11,18,1,0
+111,Dimitry Panis,Belgium,6,5,5,6,3,3,4,4,7,5,8,3,5,4,3,4,5,4,10,8,18,,0
+112,Joaquin Calvete,Switzerland,4,5,5,4,4,5,6,4,5,4,7,3,6,4,4,4,6,4,9,9,18,,0
+113,Casutt Florian,Switzerland,7,7,5,4,5,3,4,4,5,5,6,4,7,4,4,3,4,3,11,7,18,,0
+114,Mendes Bruno,Switzerland,5,5,4,6,4,3,3,3,6,7,9,4,4,4,4,3,5,6,6,13,19,1,0
+115,Peter Rolli,Germany,6,5,4,4,4,5,9,3,6,4,7,3,5,5,3,4,5,3,13,6,19,,0
+116,Antonio Simoes,Switzerland,4,5,5,7,5,3,5,5,6,4,7,2,5,5,3,4,7,,12,7,19,,0
+117,Barbara Dos Santos,Switzerland,4,4,5,5,3,3,6,3,8,4,8,5,5,5,4,4,7,4,8,13,21,,0
+118,Fabrice Ardiet,France,4,5,5,4,7,3,5,5,6,5,5,2,5,4,3,4,9,6,11,10,21,,0
+119,Dick De Haan,Netherlands,7,5,4,4,3,3,4,4,6,5,9,4,5,5,4,4,7,5,7,15,22,1,0
+120,Frederico Vilela,Switzerland,3,6,5,5,5,3,6,4,7,5,6,4,5,4,4,3,9,5,11,12,23,1,0
+121,Fabien Champion,Switzerland,5,5,6,4,3,4,7,5,5,5,9,6,4,4,5,3,5,4,11,12,23,,0
+122,Philippe Lourenço,Switzerland,5,6,5,3,5,4,4,4,6,5,6,4,6,6,5,4,9,4,9,16,25,1,0
+123,Helio Matias,Switzerland,9,5,6,5,3,4,5,4,7,4,7,4,5,5,4,4,5,6,15,11,26,,0
+124,Fabio Garrido,Switzerland,5,7,6,6,3,5,4,2,8,5,9,3,10,5,5,3,5,3,13,15,28,,0
+125,Morisoli Angelique,Switzerland,5,5,6,6,4,4,6,5,5,6,7,4,5,5,4,5,8,4,13,15,28,,0
+126,Stefan Ziegler,Switzerland,8,6,7,4,4,4,4,4,7,6,8,4,5,5,4,4,9,3,15,15,30,1,0
+127,Sabrina Piccoli,Switzerland,6,4,5,4,7,5,9,6,6,5,7,4,5,5,4,4,7,6,19,14,33,,0
+128,Osvaldo Antonio Romano,Argentina,4,8,6,5,4,5,5,5,5,6,12,4,6,5,4,4,6,6,14,20,34,,0
+129,Fabio Dos Santos,Switzerland,5,6,6,5,10,10,10,10,10,10,10,10,10,10,10,10,10,10,39,57,96,,0
+130,Michael Guillod,Switzerland,,,,,,,,,,,,,,,,,,,0,0,,,
